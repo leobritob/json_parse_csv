@@ -1,0 +1,5 @@
+name,age,country,skills.javascript,experiences[0].company,experiences[0].year,skills.nodejs,skills.react,skills.typescript,courses[0].name,courses[0].year,experiences[0].skills[0].skillName,experiences[1].company,experiences[1].year,experiences[1].skills[0].skillName
+Elisa,23,Brazil,2,,,,,,,,,,,
+João,,,,ABC,2015,,,,,,,,,
+Leonardo,24,Brazil,6,PayPal,2021,6,5,6,Clean Code and Clean Architecture,2021,nodejs,Conexia,2018,nestjs
+Tiago,,,,,,,,,JavaScript,2021,,,,

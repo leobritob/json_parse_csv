@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Elisa",
+    "age": 23,
+    "country": "Brazil",
+    "skills": {
+      "javascript": 2
+    }
+  },
+  {
+    "name": "João",
+    "experiences": [
+      {
+        "company": "ABC",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "name": "Leonardo",
+    "age": 24,
+    "country": "Brazil",
+    "skills": {
+      "nodejs": 6,
+      "react": 5,
+      "javascript": 6,
+      "typescript": 6
+    },
+    "courses": [
+      {
+        "name": "Clean Code and Clean Architecture",
+        "year": 2021
+      }
+    ],
+    "experiences": [
+      {
+        "company": "PayPal",
+        "year": 2021,
+        "skills": [{ "skillName": "nodejs" }]
+      },
+      {
+        "company": "Conexia",
+        "year": 2018,
+        "skills": [{ "skillName": "nestjs" }]
+      }
+    ]
+  },
+  {
+    "name": "Tiago",
+    "courses": [
+      {
+        "name": "JavaScript",
+        "year": 2021
+      }
+    ]
+  }
+]
